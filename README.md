@@ -2,3 +2,5 @@
 Coursera course
 
 All files can be read on http://www.codeskulptor.org/
+
+This is all done with Python 2
